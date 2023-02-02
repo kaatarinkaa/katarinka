@@ -1,0 +1,65 @@
+#include <iostream>
+using namespace std;
+int main()
+//
+//	int sk1, sk2;
+//	cin >> sk1 >> sk2;
+//	if (sk1 > sk2) cout << "pirmais skaitlis ir maksimalais, otrais minimals" << endl;
+//	else cout << "pirmais skaitlis ir mini, otrais max" << endl;
+//	if (sk1 > 0)cout << "pirmais skaitlis ir pozitivs"<< endl;
+//	else cout << "pirmais maz par 0" << endl;
+//	if (sk2 > 0)cout << "otrais skaitlis ir pozitivs" << endl;
+//	else cout << "otrais maz par 0" << endl;
+//	if (sk1 % 2 == 0) cout << "pirmais skaitlis ir para" << endl;
+//	else cout << "pirmais skaitlis ir para" << endl;
+//	if (sk2 % 2 == 0) cout << "otrais skaitlis ir para" << endl;
+//	else cout << "otrais skaitlis ir para" << endl;
+//{
+//	int grade;
+//	cin >> grade;
+//  if (grade >= 100) { cout << "wrong"; }
+//	else if (grade >= 90) { cout << "grade A"; }
+//	else if (grade >= 80) { cout << "grade B"; }
+//	else if (grade >= 70) { cout << "grade C"; }
+//	else if (grade >= 60) { cout << "grade D"; }
+//	else if (grade >= 40) { cout << "grade E"; }
+//	else if (grade < 40) { cout << "grade F"; };
+//
+//	int day;
+//
+//	cin >> day;
+//
+//	if (day == 1) { cout << "monday"; }
+//	if (day == 2) { cout << "tuesday"; }
+//	if (day == 3) { cout << "wednesday"; }
+//	if (day == 4) { cout << "thursday"; }
+//	if (day == 5) { cout << "friday"; }
+//	if (day == 6) { cout << "saturday"; };
+//	if (day == 7) { cout << "sunday"; };*/
+//
+//	int months;
+//
+//	cin >> months;
+//
+//	if (months == 1) { cout << "january"; }
+//	if (months == 2) { cout << "february"; }
+//	if (months == 3) { cout << "march"; }
+//	if (months == 4) { cout << "april"; }
+//	if (months == 5) { cout << "may"; }
+//	if (months == 6) { cout << "june"; };
+//	if (months == 7) { cout << "july"; };
+//	if (months == 8) { cout << "august"; }
+//	if (months == 9) { cout << "september"; }
+//	if (months == 10) { cout << "october"; }
+//	if (months == 11) { cout << "november"; }
+//	if (months == 12) { cout << "december"; }
+//	
+//}
+//{
+//	int ab;
+//	int bc;
+//	int ac;
+//	cin >> ab;
+//	cin >> bc;
+//	cin >> ac;
+//}
